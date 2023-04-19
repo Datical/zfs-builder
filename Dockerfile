@@ -2,7 +2,7 @@
 # Copyright The Titan Project Contributors.
 #
 
-FROM ubuntu:bionic
+FROM ubuntu:18.04
 
 ARG KERNEL_RELEASE=
 ARG KERNEL_UNAME=
